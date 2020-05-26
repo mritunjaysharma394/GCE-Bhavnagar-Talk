@@ -9,3 +9,6 @@ https://blog.usejournal.com/not-that-another-gsoc-journey-81b070a0bba9
 
 **Link to apply for MSFT Student Ambassadors Program**
 https://studentambassadors.microsoft.com/
+
+**Link to YouTube session**
+https://www.youtube.com/watch?v=V47ul1fox0g
